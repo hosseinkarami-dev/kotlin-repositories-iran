@@ -1,6 +1,6 @@
 # Kotlin Gradle Repositories for Iran 🇮🇷
 
-> Ready-to-use Gradle repository configurations for Kotlin Multiplatform, Android, JVM, and Java projects.
+> Gradle & Maven repository configurations for Kotlin, Android, JVM, and Java projects.
 
 اگر هنگام Sync یا دانلود Dependencyها با سرعت پایین، Timeout یا محدودیت در دسترسی به Repositoryهای Maven مواجه هستید، این پروژه مجموعه‌ای از Repositoryهای جایگزین (Mirror) را در اختیار شما قرار می‌دهد که تنها با چند خط تنظیمات قابل استفاده هستند.
 
